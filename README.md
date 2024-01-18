@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiriVi
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning Reactjs
+  
 -
 
 
