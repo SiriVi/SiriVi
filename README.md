@@ -1,4 +1,9 @@
 # 💫 About Me:
+👋 Hi, I’m Sirisha
+- Software Engineer sharing about my journey and learning in tech
+- Studied Computer Science at R.V College Of Engineering
+- learning public
+- Currently learning about Data Analytics
 I'm Currently documenting my Software Professional Journey<br>I'm looking to collaborate on Open Source<br>I'm Currently learning Data Analytics<br>
 
 
@@ -18,11 +23,7 @@ I'm Currently documenting my Software Professional Journey<br>I'm looking to col
 ---
 [![](https://visitcount.itsvg.in/api?id=SiriVi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m Sirisha
-- Software Engineer sharing about my journey and learning in tech
-- Studied Computer Science at R.V College Of Engineering
-- learning public
-- Currently learning about Data Analytics
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 
 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiriVi)](https://github.com/SiriVi/github-readme-stats)
