@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sirisha
+👋 Hi, 
 - Software Engineer sharing about my journey and learning in tech
 - Studied Computer Science at R.V College Of Engineering
 - learning public
